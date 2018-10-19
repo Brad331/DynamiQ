@@ -4,7 +4,7 @@ DynamiQ is an open-source and modular package of scripts that allow you to boost
 
 How It Works:
 
-DynamiQ reduces bass on demand to free up enough headroom for you to boost volume without clipping. The amount of bass attenuation varies with the loudness of the audio in real-time. This way, you get quality (good tonality) when you want it and quantity (loud volume) when you need it.
+DynamiQ reduces bass on demand to free up enough headroom for you to boost volume without clipping. The amount of bass attenuation varies with the loudness of the audio in real-time. This way, you get quality when you want it and quantity when you need it.
 
 How to Install:
 
