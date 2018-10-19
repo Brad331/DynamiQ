@@ -2,11 +2,11 @@
 
 DynamiQ is an open-source and modular package of scripts that allow you to boost the volume of the audio from your Windows device. It enables you to use aggressive equalizer settings (e.g. bass boosts) without sacrificing maximum attainable volume.
 
-How It Works:
+### How It Works:
 
 DynamiQ reduces bass on demand to free up enough headroom for you to boost volume without clipping. The amount of bass attenuation varies with the loudness of the audio in real-time. This way, you're gauranteed the volume level you set but also as much bass as possible at that volume level.
 
-How to Install:
+### How to Install:
 
 1. Make sure [Equalizer APO](https://sourceforge.net/projects/equalizerapo/ "Equalizer APO") is installed and working.
 2. Make a folder called *DynamiQ* in *%ProgramFiles%\EqualizerAPO\config*.
@@ -16,7 +16,7 @@ How to Install:
 6. Run APOpreamp.exe.
 
 
-How to Use:
+### How to Use:
 
 Once your Windows volume is maxed out, keep pressing the volume up button on your keyboard to boost the gain.
 
