@@ -11,4 +11,4 @@ How to Install:
 
 ![alt text](https://bradshacks.com/wp-content/uploads/2018/10/Include-DynamiQ.png)
 
-DynamiQ makes use of [ReaComp](https://www.reaper.fm/reaplugs/ "ReaComp"), a VST plugin by Cockos.
+DynamiQ makes use of and includes a copy of [ReaComp](https://www.reaper.fm/reaplugs/ "ReaComp"), a VST plugin by Cockos.
