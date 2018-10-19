@@ -17,6 +17,7 @@ How to Install:
 
 
 How to Use:
+
 Once your Windows volume is maxed out, keep pressing the volume up button on your keyboard to boost the gain.
 
 ![alt text](https://bradshacks.com/wp-content/uploads/2018/10/Include-DynamiQ.png)
