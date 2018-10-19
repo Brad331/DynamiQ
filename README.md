@@ -9,6 +9,9 @@ How to Install:
 3. Download [DynamiQ](https://github.com/Brad331/DynamiQ/archive/master.zip "DynamiQ") and extract its contents into *%ProgramFiles%\EqualizerAPO\config\DynamiQ* (make this folder if needed).
 4. Include *...\DynamiQ\DynamiQ.txt* in your Equalizer APO config file, after any EQ you have for your speakers.
 
+How to Use:
+Once your Windows volume is maxed out, keep pressing the volume up button on your keyboard to boost the gain.
+
 ![alt text](https://bradshacks.com/wp-content/uploads/2018/10/Include-DynamiQ.png)
 
 DynamiQ makes use of and includes a copy of [ReaComp](https://www.reaper.fm/reaplugs/ "ReaComp"), a VST plugin by Cockos.
