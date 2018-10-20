@@ -1,10 +1,13 @@
 # DynamiQ: Intelligent Frequency-Aware Volume Boost
 
-DynamiQ is an open-source and modular package of scripts that allow you to boost the volume of the audio from your Windows device. It enables you to use aggressive equalizer settings (e.g. bass boosts) without sacrificing maximum attainable volume.
+DynamiQ is an open-source and modular package of scripts that allow you to boost the volume of the audio from your Windows device. It enables you to use aggressive equalizer settings without sacrificing maximum attainable volume.
+
+### Use Cases
+DynamiQ is the best way to get much better sound from your laptop's speakers or other small speakers. Set an equalizer to correct the frequency response and put DynamiQ after it. You will get your desired frequency response yet be able to reach very high volumes when you turn it up.
 
 ### How It Works:
 
-DynamiQ reduces bass on demand to free up enough headroom for you to boost volume without clipping. The amount of bass attenuation varies with the loudness of the audio in real-time. This way, you're gauranteed the volume level you set but also as much bass as possible at that volume level.
+When more power output is demanded than possible, DynamiQ levels the bass on demand to free up enough headroom to avoid clipping. The amount of bass attenuation varies with the loudness of the audio in real-time. This way, you're gauranteed the volume level you set but also the most ideal frequency response possible at that volume level.
 
 ### How to Install:
 
