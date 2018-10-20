@@ -7,7 +7,7 @@ DynamiQ is the best way to get much better sound from your laptop's speakers or 
 
 ### How It Works:
 
-When more power output is demanded than possible, DynamiQ levels the bass on demand to free up enough headroom to avoid clipping. The amount of bass attenuation varies with the loudness of the audio in real-time. This way, you're gauranteed the volume level you set but also the most ideal frequency response possible at that volume level.
+When more power output is demanded than possible, DynamiQ levels the bass on demand to free up just enough headroom to avoid clipping. The amount of bass attenuation varies with the loudness of the audio in real-time. This way, you're gauranteed the volume level you set but also the most ideal frequency response possible at that volume level.
 
 ### How to Install:
 
