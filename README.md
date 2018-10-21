@@ -26,6 +26,6 @@ Once your Windows volume is maxed out, keep pressing the volume up button on you
 You can use Equalizer APO's Editor.exe to change the bass crossover frequency in BassComp.txt. I have it set at 120Hz, which is the point  in my equalizer setting below which bass starts to go up dramatically.
 
 
-![alt text](https://bradshacks.com/wp-content/uploads/2018/10/Include-DynamiQ.png)
+![alt text](https://github.com/Brad331/DynamiQ/raw/master/Include%20DynamiQ.png)
 
 DynamiQ makes use of and includes a copy of [ReaComp](https://www.reaper.fm/reaplugs/ "ReaComp"), a VST plugin by Cockos.
