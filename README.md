@@ -23,7 +23,7 @@ When more power output is demanded than possible, DynamiQ levels the bass on dem
 
 Once your Windows volume is maxed out, keep pressing the volume up button on your keyboard to boost the gain.
 
-You can use Equalizer APO's Editor.exe to change the bass crossover frequency in DynamiQ.txt. I have it set at 120Hz, which is the point  in my equalizer setting below which bass starts to go up dramatically.
+You can use Equalizer APO's Editor.exe to change the bass crossover frequency in BassComp.txt. I have it set at 120Hz, which is the point  in my equalizer setting below which bass starts to go up dramatically.
 
 
 ![alt text](https://bradshacks.com/wp-content/uploads/2018/10/Include-DynamiQ.png)
