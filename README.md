@@ -12,10 +12,10 @@ When more power output is demanded than possible, DynamiQ levels the bass on dem
 ### How to Install:
 
 1. Make sure [Equalizer APO](https://sourceforge.net/projects/equalizerapo/ "Equalizer APO") is installed and working.
-2. Make a folder called *DynamiQ* in *%ProgramFiles%\EqualizerAPO\config*.
+2. Make a folder called **DynamiQ** in **%ProgramFiles%\EqualizerAPO\config**.
 2. [Download DynamiQ](https://github.com/Brad331/DynamiQ/archive/master.zip "DynamiQ") and extract its contents into that folder.
-3. Include *DynamiQ\DynamiQ.txt* in your Equalizer APO config file, after any EQ you have for your speakers.
-4. [Download APOpreamp](https://github.com/Brad331/APOpreamp.ahk/releases "APOpreamp") and put it in *%Username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup* so that it automatically starts at login.
+3. Include **DynamiQ\DynamiQ.txt** in your Equalizer APO config file, after any EQ you have for your speakers.
+4. [Download APOpreamp](https://github.com/Brad331/APOpreamp.ahk/releases "APOpreamp") and put it in **%Username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup** so that it automatically starts at login.
 6. Run APOpreamp.exe.
 
 
