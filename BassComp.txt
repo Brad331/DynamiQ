@@ -9,4 +9,3 @@ Delay: 1 ms
 Filter: ON HP Fc 120 Hz
 Filter: ON HP Fc 120 Hz
 Copy: L=LLOW+LHIGH R=RLOW+RHIGH
-Channel: L R
