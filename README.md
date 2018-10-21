@@ -24,7 +24,10 @@ When more power output is demanded than possible, DynamiQ levels the bass on dem
 
 Once your Windows volume is maxed out, keep pressing the volume up button on your keyboard to boost the gain.
 
+### Customization:
 You can use Equalizer APO's Editor.exe to change the bass crossover frequency in BassComp.txt. I have it set at 120Hz, which is the point  in my equalizer setting below which bass starts to go up dramatically.
+
+Feel free to experiment and modify any part of DynamiQ. Maybe you'll discover something new and even better! Just be careful not to blow your speakers. The first compressor in BassComp.txt is for speaker protection.
 
 
 DynamiQ makes use of and includes a copy of [ReaComp](https://www.reaper.fm/reaplugs/ "ReaComp"), a VST plugin by Cockos.
