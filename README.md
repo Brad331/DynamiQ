@@ -13,9 +13,10 @@ When more power output is demanded than possible, DynamiQ levels the bass on dem
 
 1. Make sure [Equalizer APO](https://sourceforge.net/projects/equalizerapo/ "Equalizer APO") is installed and working.
 2. Make a folder called **DynamiQ** in **%ProgramFiles%\EqualizerAPO\config**.
-2. [Download DynamiQ](https://github.com/Brad331/DynamiQ/archive/master.zip "DynamiQ") and extract its contents into that folder.
-3. Include **DynamiQ\DynamiQ.txt** in your Equalizer APO config file, after any EQ you have for your speakers.
-4. [Download APOpreamp](https://github.com/Brad331/APOpreamp.ahk/releases "APOpreamp") and put it in **%Username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup** so that it automatically starts at login.
+3. [Download DynamiQ](https://github.com/Brad331/DynamiQ/archive/master.zip "DynamiQ") and extract its contents into that folder.
+4. Include **DynamiQ\DynamiQ.txt** in your Equalizer APO config file, after any EQ you have for your speakers.
+![alt text](https://github.com/Brad331/DynamiQ/raw/master/Include%20DynamiQ.png)
+5. [Download APOpreamp](https://github.com/Brad331/APOpreamp.ahk/releases "APOpreamp") and put it in **%Username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup** so that it automatically starts at login.
 6. Run APOpreamp.exe.
 
 
@@ -25,7 +26,5 @@ Once your Windows volume is maxed out, keep pressing the volume up button on you
 
 You can use Equalizer APO's Editor.exe to change the bass crossover frequency in BassComp.txt. I have it set at 120Hz, which is the point  in my equalizer setting below which bass starts to go up dramatically.
 
-
-![alt text](https://github.com/Brad331/DynamiQ/raw/master/Include%20DynamiQ.png)
 
 DynamiQ makes use of and includes a copy of [ReaComp](https://www.reaper.fm/reaplugs/ "ReaComp"), a VST plugin by Cockos.
