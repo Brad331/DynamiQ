@@ -1,7 +1,7 @@
 Copy: LLOW=L LHIGH=L RLOW=R RHIGH=R
 Channel: LLOW RLOW
-VSTPlugin: Library "C:\Program Files\VSTPlugins\ReaPlugs\reacomp-standalone.dll" SignIn 0 Thresh 0.252553 Hipass 0 Pre-comp 0 Release 0 Ratio 1 AutoMkUp 0 Attack 0 resvd 0 Lowpass 1 AudIn 0 Dry 3.16228e-8 Wet 1 PreviewF 0 "RMS size" 0.05 Knee 0 AutoRel 0 ClsAttk 0 AntiAls 0
-VSTPlugin: Library "C:\Program Files\VSTPlugins\ReaPlugs\reacomp-standalone.dll" SignIn 0 Thresh 1 Hipass 0 Pre-comp 0.004 Release 0.02 Ratio 0.0909091 AutoMkUp 0 Attack 0.002 resvd 0 Lowpass 1 AudIn 0 Dry 3.16228e-8 Wet 1 PreviewF 0 "RMS size" 0 Knee 0 AutoRel 0 ClsAttk 0 AntiAls 0
+VSTPlugin: Library ..\config\DynamiQ\reacomp-standalone.dll SignIn 0 Thresh 0.252553 Hipass 0 Pre-comp 0 Release 0 Ratio 1 AutoMkUp 0 Attack 0 resvd 0 Lowpass 1 AudIn 0 Dry 3.16228e-8 Wet 1 PreviewF 0 "RMS size" 0.05 Knee 0 AutoRel 0 ClsAttk 0 AntiAls 0
+VSTPlugin: Library ..\config\DynamiQ\reacomp-standalone.dll SignIn 0 Thresh 1 Hipass 0 Pre-comp 0.004 Release 0.02 Ratio 0.0909091 AutoMkUp 0 Attack 0.002 resvd 0 Lowpass 1 AudIn 0 Dry 3.16228e-8 Wet 1 PreviewF 0 "RMS size" 0 Knee 0 AutoRel 0 ClsAttk 0 AntiAls 0
 Filter: ON LP Fc 120 Hz
 Filter: ON LP Fc 120 Hz
 Channel: LHIGH RHIGH
