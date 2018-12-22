@@ -2,6 +2,8 @@
 
 DynamiQ is an open-source and modular package of scripts that allow you to boost the volume of the audio from your Windows device. It enables you to use aggressive equalizer settings without sacrificing maximum attainable volume.
 
+Binaural demo on MateBook X Pro: https://www.youtube.com/watch?v=o5kS3qjtLgI
+
 ### Use Cases:
 DynamiQ is the best way to get much better sound from your laptop's speakers or other small speakers. Set an equalizer to correct the frequency response and put DynamiQ after it. You will get your desired frequency response yet be able to reach very high volumes when you turn it up.
 
