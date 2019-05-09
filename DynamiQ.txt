@@ -1,3 +1,6 @@
+# DynamiQ laptop speaker enhancement, version 2018.11.19
+# By Brad Ling @ BradsHacks.com
+# github.com/Brad331/DynamiQ
 Include: Gain.txt
 Include: BassComp.txt
 Include: BassComp.txt
