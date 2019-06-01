@@ -28,9 +28,11 @@ Once your Windows volume is maxed out, keep pressing the volume up button on you
 
 ### FAQ:
 Q: Windows volume 100 is now much quieter and I have to use the Gain. Is that normal?
+
 A: Yes, DynamiQ is designed to take advantage of the full amplifier headroom provided when the system volume is maximized. The Gain should give you back as much volume as before, if not more.
 
 Q: Should I turn off DynamiQ when using headphones?
+
 A: Yes, DynamiQ is not for headphones, so you should turn it off.
 
 ### Customization:
