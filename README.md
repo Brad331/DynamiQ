@@ -27,11 +27,11 @@ When more power output is demanded than possible, DynamiQ levels the bass on dem
 Once your Windows volume is maxed out, keep pressing the volume up button on your keyboard to boost the gain.
 
 ### FAQ:
-## Windows volume 100 is now much quieter and I have to use the Gain. Is that normal?
-Yes, DynamiQ is designed to take advantage of the full amplifier headroom provided when the system volume is maximized. The Gain should give you back as much volume as before, if not more.
+Q: Windows volume 100 is now much quieter and I have to use the Gain. Is that normal?
+A: Yes, DynamiQ is designed to take advantage of the full amplifier headroom provided when the system volume is maximized. The Gain should give you back as much volume as before, if not more.
 
-## Should I turn off DynamiQ when using headphones?
-Yes, DynamiQ is not for headphones, so you should turn it off.
+Q: Should I turn off DynamiQ when using headphones?
+A: Yes, DynamiQ is not for headphones, so you should turn it off.
 
 ### Customization:
 You can use Equalizer APO's Editor.exe to change the bass crossover frequency in BassComp.txt. I have it set at 120Hz, which is the point  in my equalizer setting below which bass starts to go up dramatically.
