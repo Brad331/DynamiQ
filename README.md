@@ -14,7 +14,7 @@ When more power output is demanded than possible, DynamiQ levels the bass on dem
 ### How to Install:
 
 1. Make sure [Equalizer APO](https://sourceforge.net/projects/equalizerapo/ "Equalizer APO") is installed and working.
-2. Make a folder called **DynamiQ** in **%ProgramFiles%\EqualizerAPO\config**.
+2. Make a folder called **DynamiQ** in **%ProgramFiles%\EqualizerAPO\config**. (Make sure it's NOT called 'DynamiQ-master'.)
 3. [Download DynamiQ](https://github.com/Brad331/DynamiQ/archive/master.zip "DynamiQ") and extract its contents into that folder.
 4. Include **DynamiQ\DynamiQ.txt** in your Equalizer APO config file, after any EQ you have for your speakers.
 ![alt text](https://github.com/Brad331/DynamiQ/raw/master/Include%20DynamiQ.png)
