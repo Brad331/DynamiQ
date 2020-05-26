@@ -8,4 +8,4 @@ Include: BassComp2.txt
 Include: BassComp3.txt
 Include: BassComp4.txt
 Include: BassComp5.txt
-VSTPlugin: Library ..\config\DynamiQ\reacomp-standalone.dll SignIn 0 Thresh 1 Hipass 0 Pre-comp 0 Release 0.04 Ratio 1 AutoMkUp 0 Attack 0 resvd 0 Lowpass 1 AudIn 0 Dry 3.16228e-8 Wet 1 PreviewF 0 "RMS size" 0.005 Knee 0.00416667 AutoRel 0 ClsAttk 0 AntiAls 0
+VSTPlugin: Library ..\config\DynamiQ-master\reacomp-standalone.dll SignIn 0 Thresh 1 Hipass 0 Pre-comp 0 Release 0.04 Ratio 1 AutoMkUp 0 Attack 0 resvd 0 Lowpass 1 AudIn 0 Dry 3.16228e-8 Wet 1 PreviewF 0 "RMS size" 0.005 Knee 0.00416667 AutoRel 0 ClsAttk 0 AntiAls 0
