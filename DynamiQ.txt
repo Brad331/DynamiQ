@@ -1,9 +1,11 @@
-# DynamiQ laptop speaker enhancement, version 2018.11.19
+# DynamiQ laptop speaker enhancement, version 2020.5.26
 # By Brad Ling @ BradsHacks.com
 # github.com/Brad331/DynamiQ
+# Include: Extra Vocal Clarity.txt
 Include: Gain.txt
-Include: BassComp.txt
-Include: BassComp.txt
-Include: BassComp.txt
-Include: BassComp.txt
-VSTPlugin: Library ..\config\DynamiQ\reacomp-standalone.dll Thresh 1 Hipass 0 SignIn 0 Ratio 1 Release 0.01 Pre-comp 0.004 AutoMkUp 0 Attack 0.002 resvd 0 Lowpass 1 AudIn 0 Dry 3.16228e-8 Wet 1 PreviewF 0 "RMS size" 0 Knee 0 AutoRel 0 ClsAttk 0 AntiAls 0
+Include: BassComp1.txt
+Include: BassComp2.txt
+Include: BassComp3.txt
+Include: BassComp4.txt
+Include: BassComp5.txt
+VSTPlugin: Library ..\config\DynamiQ\reacomp-standalone.dll SignIn 0 Thresh 1 Hipass 0 Pre-comp 0 Release 0.04 Ratio 1 AutoMkUp 0 Attack 0 resvd 0 Lowpass 1 AudIn 0 Dry 3.16228e-8 Wet 1 PreviewF 0 "RMS size" 0.005 Knee 0.00416667 AutoRel 0 ClsAttk 0 AntiAls 0
