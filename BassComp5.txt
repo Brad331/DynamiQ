@@ -1,9 +1,9 @@
 Copy: LLOW=L LHIGH=L RLOW=R RHIGH=R
 Channel: LLOW RLOW
 VSTPlugin: Library ..\config\DynamiQ-master\reacomp-standalone.dll Thresh 1 Hipass 0 SignIn 0 Ratio 0.0909091 Release 0.1 Pre-comp 0 AutoMkUp 0 Attack 0.002 resvd 0 Lowpass 1 AudIn 0 Dry 3.16228e-8 Wet 1 PreviewF 0 "RMS size" 0.001 Knee 0.0833333 AutoRel 0 ClsAttk 0 AntiAls 0
-Filter: ON LP Fc 160 Hz
-Filter: ON LP Fc 160 Hz
+Filter: ON LP Fc 195.31 Hz
+Filter: ON LP Fc 195.31 Hz
 Channel: LHIGH RHIGH
-Filter: ON HP Fc 160 Hz
-Filter: ON HP Fc 160 Hz
+Filter: ON HP Fc 195.31 Hz
+Filter: ON HP Fc 195.31 Hz
 Copy: L=LLOW+LHIGH R=RLOW+RHIGH
