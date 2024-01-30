@@ -22,7 +22,7 @@ If you've done any EQ'ing on laptop speakers, you've probably run into a shortag
 2. [Download DynamiQ](https://github.com/Brad331/DynamiQ/archive/master.zip "DynamiQ").
 3. Extract the zip you just downloaded. You should get a folder called "DynamiQ-master" with some files in it.
 4. Move that folder into **%ProgramFiles%\EqualizerAPO\config**.
-5. Include **DynamiQ-master\DynamiQ.txt** in your Equalizer APO config file, after any EQ you have for your speakers.
+5. Open Equalizer APO's Editor app (search "editor" in Start). Include **DynamiQ-master\DynamiQ.txt** in your Equalizer APO config file, after any EQ you have for your speakers.
 ![alt text](https://github.com/Brad331/DynamiQ/raw/master/Include%20DynamiQ.png)
 6. [Download APOpreamp](https://github.com/Brad331/APOpreamp.ahk/releases "APOpreamp") and put it in **%appdata%\Microsoft\Windows\Start Menu\Programs\Startup** so that it automatically starts at login.
 7. Run APOpreamp.exe.
